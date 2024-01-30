@@ -1,0 +1,61 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+
+}
+.container-global {
+
+    /* background: pink; */
+}
+.question-block {
+
+}
+
+.question-block h4 {
+
+}
+
+.question-block label {
+
+}
+
+.question-block input[type='radio'] {
+
+}
+
+.resultats {
+
+}
+.resultats h2 {
+
+}
+.aide {
+
+}
+.note {
+
+}
+
+form button {
+
+}
+
+form button:hover {
+
+}
+
+.echec {
+
+}
+
+@keyframes echec {
+
+}
